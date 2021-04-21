@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210314584537",
+    "firebase_url": "https://universologico.firebaseio.com",
+    "project_id": "universologico",
+    "storage_bucket": "universologico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210314584537:android:de2d84f0e97797b6",
+        "android_client_info": {
+          "package_name": "com.example.universo_logico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210314584537-lho2p8bijcl4bifhnehdp1h84gugv90f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx1ShcZerv_q-LW-MFoHpH_me9uAKYBTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210314584537-lho2p8bijcl4bifhnehdp1h84gugv90f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
